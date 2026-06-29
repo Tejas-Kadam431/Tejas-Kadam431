@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, I'm Tejas Kadam 👋</h1>
 
 <p align="center">
   Full-Stack Developer focused on building practical, scalable, and clean software products.
@@ -33,7 +33,6 @@
 
 ## Project Stack Highlights
 
-```txt
 Backend        Node.js, Express.js, TypeScript
 Database       PostgreSQL, Prisma ORM
 Caching        Redis
@@ -41,7 +40,6 @@ Auth           JWT, bcrypt, role-based access
 APIs           REST APIs, validation, error handling
 Dev Tools      Git, GitHub, Postman, Docker
 Architecture   Modular backend structure, clean routes/controllers/services
-````
 
 ---
 
@@ -71,18 +69,7 @@ Most of my recent work focuses on designing reliable backend systems using:
 
 ---
 
-## GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
-
----
 
 ## Current Focus
 
