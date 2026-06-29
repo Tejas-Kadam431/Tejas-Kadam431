@@ -4,14 +4,6 @@
   Full-Stack Developer building production-style web applications with modern frontend, backend, database, caching, queues, real-time systems, testing, and deployment workflows.
 </p>
 
-<p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tejas-kadam-81bb72378/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kadamtejas548@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -85,19 +77,6 @@ Deployment     Render
 * Dockerized development setup
 * CI/CD workflows using GitHub Actions
 * Deployment on Render
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
 
 ---
 
